@@ -1,0 +1,19 @@
+body{
+	color: white;
+	background-color: black;
+	font-family: Arial;
+	margin: auto 10%;
+}
+
+ul > li{
+	list-style: square;
+}
+
+a {
+	text-decoration: underline;
+	color: white;
+}
+
+b > a {
+	color: red;
+}
